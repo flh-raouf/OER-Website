@@ -23,7 +23,7 @@ export default function Navigation() {
         <div className="flex justify-between h-16">
           <div className="flex items-center">
             <Link href="/" className="text-xl font-bold text-blue-600 font-heading">
-              Understanding the Impact of AI on Media and Public Knowledge
+              AI in Media
             </Link>
           </div>
 
